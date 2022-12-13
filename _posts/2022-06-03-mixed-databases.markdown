@@ -16,7 +16,7 @@ img: ":mock1.jpg"
 #comments_disable: true
 
 # publish date
-date: 2022-12-03 12:32:10 +0900
+date: 2022-06-03 12:32:10 +0900
 
 # seo
 # if not specified, date will be used.
