@@ -5,7 +5,7 @@
 brand: "Raúl Galindo"
 
 # text below the brand name
-brand_sub_text: "PhD student"
+brand_sub_text: "PhD Student"
 
 # used for seo meta post author (if it's not defined in post)
 name: "Your Name"
@@ -19,7 +19,7 @@ home:
 
 # about page sub title
 about:
-  sub_title: "PhD student"
+  sub_title: "PhD Student"
 
 # if you don't want to add copyright year, comment or leave it blank.
 # the year during which the claimed copyright for the work was first asserted.
