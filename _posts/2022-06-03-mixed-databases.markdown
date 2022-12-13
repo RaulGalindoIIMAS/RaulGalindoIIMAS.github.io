@@ -1,7 +1,7 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
 lng_pair: id_mixed_databases
-title: Mixed databases
+title: Numerical codes in mixed databases
 
 # post specific
 # if not specified, .name will be used from _data/owner/[language].yml
@@ -20,7 +20,7 @@ date: 2022-06-03 12:32:10 +0900
 
 # seo
 # if not specified, date will be used.
-#meta_modify_date: 2022-03-03 12:32:10 +0900
+#meta_modify_date: 2022-06-03 12:32:10 +0900
 # check the meta_common_description in _data/owner/[language].yml
 #meta_description: ""
 

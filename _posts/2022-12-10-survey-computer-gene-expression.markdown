@@ -1,7 +1,7 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
 lng_pair: id_survey_computer_gene_expression
-title: Survey of computer science algorithms in gene expression data
+title: Survey of computer science algorithms in gene expression
 
 # post specific
 # if not specified, .name will be used from _data/owner/[language].yml
@@ -16,7 +16,7 @@ img: ":mock1.jpg"
 #comments_disable: true
 
 # publish date
-date: 2022-12-03 12:32:10 +0900
+date: 2022-12-10 12:32:10 +0900
 
 # seo
 # if not specified, date will be used.
