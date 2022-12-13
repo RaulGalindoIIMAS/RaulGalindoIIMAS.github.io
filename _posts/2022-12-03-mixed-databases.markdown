@@ -1,11 +1,11 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
-lng_pair: id_Mr_Green_Jekyll_Theme
-title: Mr. Green Jekyll Theme
+lng_pair: id_mixed_databases
+title: Mixed databases
 
 # post specific
 # if not specified, .name will be used from _data/owner/[language].yml
-author: Mr. Green's Workshop
+author: Raúl Galindo-Hernández
 # multiple category is not supported
 category: jekyll
 # multiple tag entries are possible
@@ -16,7 +16,7 @@ img: ":mock1.jpg"
 #comments_disable: true
 
 # publish date
-date: 2022-03-03 12:32:10 +0900
+date: 2022-12-03 12:32:10 +0900
 
 # seo
 # if not specified, date will be used.
