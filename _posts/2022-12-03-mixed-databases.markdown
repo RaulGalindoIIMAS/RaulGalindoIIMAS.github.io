@@ -39,14 +39,13 @@ date: 2022-12-03 12:32:10 +0900
 
 ##### This paper can be found at the following link:
 
-### Mixed databases paper name
+### Statistical determination of numerical codes in mixed databases
 
-[Paper](https://openreview.net/forum?id=B1liPqdoWB)
+[Statistical determination of numerical codes in mixed databases](https://openreview.net/forum?id=B1liPqdoWB)
 
 
-#### Blockquote
-
-> **Galindo-Hernández Raúl, Kuri-Morales Ángel**, Mixed databases paper name
-> Congress on Evolutionary Computation
-> August, 2018
+> **Galindo-Hernández Raúl, Kuri-Morales Ángel**, 
+> Statistical determination of numerical codes in mixed databases
+> RIIAA conference
+> August, 2019
 
