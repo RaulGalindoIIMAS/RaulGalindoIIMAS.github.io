@@ -37,6 +37,16 @@ date: 2022-12-03 12:32:10 +0900
 #published: false
 ---
 
-{%- capture readme_file -%}{%- include_relative _README.md -%}{%- endcapture -%}
-{%- assign tmp_content = readme_file | split: "<!-- readme -->" -%}
-{{tmp_content[1]}}
+##### This paper can be found at the following link:
+
+### Mixed databases paper name
+
+[Paper](https://openreview.net/forum?id=B1liPqdoWB)
+
+
+#### Blockquote
+
+> **Galindo-Hernández Raúl, Kuri-Morales Ángel**, Mixed databases paper name
+> Congress on Evolutionary Computation
+> August, 2018
+
