@@ -167,9 +167,9 @@ privacy-policy:
 
 # constants to be replaced for
 constants:
-  greetings: Hi
+  greetings: Hi!
   welcome: 
-  sample: PhDStudent
+  sample: I am a third-year PhD student at UNAM - IIMAS in the Artificial Intelligence group.
 
 # for cookie consent
 cookie_consent:
