@@ -15,7 +15,7 @@ page_data:
     - title: "Teaching"
       type: id_teaching
       color: "orange"
-    - title: "Seminars"
+    - title: "Conferences"
       type: id_seminar
       color: "#62b462"
     - title: "Department member"
