@@ -36,7 +36,8 @@ img: ":about.jpg"
 
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
 
-{%- include util/auto-content-generator.liquid -%}
-{{ website_info_text_first }}
+Todos son bienvenidos a colaborar en áreas relacionadas con las ciencias computacionales y pueden contactarme en:
 
-{{ website_info_text_second }}
+raul.galindo.hernandez@comunidad.unam.mx
+raul.galindo.mcic@gmail.com
+
