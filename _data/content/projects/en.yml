@@ -52,8 +52,8 @@ page_data:
     - type: id_member
       project_name: "DISCA"
       project_excerpt: "Active member of DISCA group"
-      #img: ":iimas.jpg"
-      #img_title: "img title3"
+      img: ":iimas.jpg"
+      img_title: "img title3"
       date: "2022-08-07"
       post: |
         # Conferences and seminars are presented bimonthly.
