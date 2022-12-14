@@ -19,39 +19,39 @@ date:
   day: "%d"
   year: "%Y"
   # months itself also used in Archive page.
-  months: [Jan, Fev, Mar, Abr, Mai, Jun, Jul, Ago, Set, Out, Nov, Dez]
+  months: [Ene, Feb, Mar, Abr, May, Jun, Jul, Ago, Sep, Oct, Nov, Dic]
 
 not_found:
-  header: Página não encontrada
-  line1: A página não pode ser encontrada.
-  line2: Use o menu ou use a busca.
+  header: Página no encontrada
+  line1: Una página no puede ser encontrada.
+  line2: Use el menú o realice una búsqueda.
 
-no_translation_tooltip: Não há tradução
+no_translation_tooltip: No existe traducción
 
 navigation:
-  contact_header: Contato
+  contact_header: Contacto
 
-color_scheme_switch_tooltip: Escolha a cor
+color_scheme_switch_tooltip: Elija un color
 
 search:
-  placeholder: Procurar
-  noResultText: Nenhum resultado encontrado.
+  placeholder: Buscar
+  noResultText: Ningún resultado encontrado.
 
 image_viewer:
-  load_error: Esta imagem não pode ser carregada.
+  load_error: Esta imagen no puede ser visualizada.
 
 copyright:
-  additional_text: " Todos os direitos reservados."
+  additional_text: "Todos los derechos reservados."
 
 creative_commons:
-  some_rights_reserved: Direitos parcialmente reservados.
+  some_rights_reserved: Derechos parcialmente reservados.
   # check _data/owner/[language].yml for license type.
-  by: Salvo previamente expresso, o conteúdo desse site usa a licença Creative Commons Attribution 4.0 International.
-  by-nd: Salvo previamente expresso, o conteúdo desse site usa a licença Creative Commons Attribution-NoDerivatives 4.0 International.
-  by-sa: Salvo previamente expresso, o conteúdo desse site usa a licença Creative Commons Attribution-ShareAlike 4.0 International.
-  by-nc: Salvo previamente expresso, o conteúdo desse site usa a licença Creative Commons Attribution-NonCommercial 4.0 International.
-  by-nc-nd: Salvo previamente expresso, o conteúdo desse site usa a licença Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International.
-  by-nc-sa: Salvo previamente expresso, o conteúdo desse site usa a licença Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International.
+  by: A menos que se indique lo contrario, el contenido de este sitio utiliza la licencia Creative Commons Attribution 4.0 International.
+  by-nd: A menos que se indique lo contrario, el contenido de este sitio utiliza la licencia Creative Commons Attribution 4.0 International.
+  by-sa: A menos que se indique lo contrario, el contenido de este sitio utiliza la licencia Creative Commons Attribution 4.0 International.
+  by-nc: A menos que se indique lo contrario, el contenido de este sitio utiliza la licencia Creative Commons Attribution 4.0 International.
+  by-nc-nd: A menos que se indique lo contrario, el contenido de este sitio utiliza la licencia Creative Commons Attribution 4.0 International.
+  by-nc-sa: A menos que se indique lo contrario, el contenido de este sitio utiliza la licencia Creative Commons Attribution 4.0 International.
 
 # for 404 layout
 not-found:
@@ -61,40 +61,40 @@ not-found:
 post:
   read_time:
     unit: " min"
-    text: " leitura"
+    text: " lectura"
     # c for char w for word
     word_char: w
     # char or words per minute
     per_minute: 100
   pager_buttons:
-    older_post: "← Posts mais antigos"
-    newer_post: "Posts mais recentes →"
-    first_post: Primeiro
+    older_post: "← Posts más antiguos"
+    newer_post: "Posts más recientes →"
+    first_post: Primero
     last_post: Último
   comments:
     disqus:
-      count_title: Comentários
-      noscript: Por favor, habilite o JavaScript para ter acesso aos comentários.
-      click_to_load: "Carregar comentários"
+      count_title: Comentarios
+      noscript: Por favor, habilite JavaScript para tener acesso a los comentarios.
+      click_to_load: "Cargar comentarios"
       consent:
-        title: Comentários (Disqus.com)
+        title: Comentarios (Disqus.com)
         text: >
-          A área de comentários é hospedada por um  aplicativo desenvolvido por terceiros. Ao mostrar este conteúdo você aceita os $terms e $privacy_policy do disqus.com.
-          <br> Caso prefira sair, abra $settings_link e clique no botão "sair", em seguida feche. Retorne para esta área e carregue os comentários novamente.
-        terms_link_text: Termos de serviço
-        privacy_link_text: Política de Privacidade
-        settings_link_text: este link
+          El área de comentarios está alojada en una aplicación desarrollada por un tercero. Al mostrar este contenido, acepta los $terms y la $privacy_policy de disqus.com.
+          <br> Si prefiere salir, abra el enlace $settings_link y haga clic en el botón "salir", luego cierre. Regrese a esta área y cargue los comentarios nuevamente.
+        terms_link_text: Términos de servicio
+        privacy_link_text: Política de Privacidad
+        settings_link_text: este enlace
         button:
-          load_once: Mostrar somente desta vez
-          load_and_do_not_ask_again: Mostrar sempre
+          load_once: Mostrar solo esta vez
+          load_and_do_not_ask_again: Mostrar siempre
   table_of_contents:
-    heading: Conteúdo
+    heading: Contenido
     tooltip:
-      move: Arraste para mover
-      close: Fechar
+      move: Arrastre para mover
+      close: Cerrar
   share:
-    heading: Compartilhar em
-    link_copied: Link copiado!
+    heading: Compartir en
+    link_copied: Enlace copiado!
     tooltip:
       # keys need to match with _data/share.yml
       twitter: Twitter
@@ -102,7 +102,7 @@ post:
       telegram: Telegram
       linkedin: LinkedIn
       email: Email
-      copy_link: Copiar link
+      copy_link: Copiar enlace
 
 # for post-list layout
 post-list:
@@ -110,56 +110,56 @@ post-list:
   button_name: Blog
   upside_down_tabs:
     tab:
-      all: Tudo
-      categories: Categoria
-      tags: Marcador
-      years: Ano
-      clear: Limpar
-      close: Fechar
+      all: Todo
+      categories: Categorías
+      tags: Tags
+      years: Año
+      clear: Limpiar
+      close: Cerrar
       tooltip:
-        clear: Limpar
-        close: Fechar
+        clear: Limpiar
+        close: Cerrar
     msg:
       property_list:
         # keys need to match with /query/post-query.json
-        tags: Marcador
-        category: Categoria
-        year: Ano
+        tags: Tags
+        category: Categoría
+        year: Año
       # you can use these wildcards, {property} {value} {thumb}
       resultFoundTitleFormat: "{property} : {thumb}"
 
 # for home layout
 home:
-  title: Bem vindo
+  title: Bienvenido
   button_name: Principal
-  new_posts_title: Novos artigos
-  new_posts_show_more_button: Veja mais ...
+  new_posts_title: Artículos recientes
+  new_posts_show_more_button: Ver más...
 
 # for archives layout
 archives:
-  title: Arquivo
+  title: Archivo
   button_name: Arquivo
   page_header: Arquivo
 
 # for about layout
 about:
-  title: Sobre
+  title: Acerca de
   button_name: Sobre
   email_title: Email
 
 # for links layout
 links:
-  title: Links
+  title: Enlaces
   button_name: Links
   link_text: Web site
   info_text: Info
 
 # for projects layout
 projects:
-  title: Projetos
+  title: Proyectos
   button_name: Projetos
-  read_more_text: Leia mais
-  read_less_text: Leia menos
+  read_more_text: Leer más
+  read_less_text: Leer menos
 
 # for privacy-policy layout
 privacy-policy:
@@ -167,9 +167,9 @@ privacy-policy:
 
 # constants to be replaced for
 constants:
-  greetings: Olá
-  welcome: Bem vindo
-  sample: Amostra
+  greetings: Hola!
+  welcome: 
+  sample: Soy estudiante de tercer año de doctorado en la UNAM - IIMAS en el grupo de Inteligencia Artificial. Mi investigación principalmente se centra en el diseño de algoritmos evolutivos y de aprendizaje automático aplicados a conjuntos de datos biológicos. Me apasiona analizar éstos enfoques computacinales y conocer cómo funcionan, evolucionan e identifican soluciones potenciales en una variedad de problemas.
 
 # for cookie consent
 cookie_consent:
