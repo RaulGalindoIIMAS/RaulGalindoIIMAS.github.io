@@ -18,7 +18,7 @@ page_data:
     - title: "Conferences"
       type: id_seminar
       color: "#62b462"
-    - title: "Department member"
+    - title: "DepartmentMember"
       type: id_member
       color: "#2FD0ED"
 
