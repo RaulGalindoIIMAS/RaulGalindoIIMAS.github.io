@@ -138,26 +138,26 @@ home:
 # for archives layout
 archives:
   title: Archivo
-  button_name: Arquivo
+  button_name: Archivo
   page_header: Arquivo
 
 # for about layout
 about:
   title: Acerca de
-  button_name: Sobre
+  button_name: Acerca de
   email_title: Email
 
 # for links layout
 links:
   title: Enlaces
-  button_name: Links
+  button_name: Enlaces
   link_text: Web site
   info_text: Info
 
 # for projects layout
 projects:
   title: Proyectos
-  button_name: Projetos
+  button_name: Proyectos
   read_more_text: Leer más
   read_less_text: Leer menos
 
