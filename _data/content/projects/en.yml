@@ -45,6 +45,8 @@ page_data:
       post: |
         # Active member in conferences and seminars which are presented every tuesday since January 1st 2021.
 
+        ![Image](:complete_laboratory.jpg)
+
 
     # quote
     - type: id_member
