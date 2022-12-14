@@ -27,7 +27,7 @@ page_data:
     - type: id_teaching
       project_name: "Teaching"
       project_excerpt: "Massive Data I"
-      img: ":project1_thumb.jpg"
+      img: ":teaching.jpg"
       img_title: "img title1"
       date: "2022-12-13"
       post: |
