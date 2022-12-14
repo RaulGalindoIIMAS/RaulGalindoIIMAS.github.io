@@ -1,11 +1,11 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
-lng_pair: id_divulgation_evolutionary_computation_bioinformatics
-title: Divulgation on evolutionary computation in bioinformatics
+lng_pair: id_masters_degree
+title: Master's degree at IIMAS UNAM.
 
 # post specific
 # if not specified, .name will be used from _data/owner/[language].yml
-author: Raúl Galindo-Hernández
+author: Mr. Green's Workshop
 # multiple category is not supported
 category: jekyll
 # multiple tag entries are possible
@@ -16,11 +16,11 @@ img: ":mock1.jpg"
 #comments_disable: true
 
 # publish date
-date: 2022-12-05 12:32:10 +0900
+date: 2017-08-05 12:32:10 +0900
 
 # seo
 # if not specified, date will be used.
-#meta_modify_date: 2022-12-05 12:32:10 +0900
+#meta_modify_date: 2017-08-05 12:32:10 +0900
 # check the meta_common_description in _data/owner/[language].yml
 #meta_description: ""
 
@@ -48,4 +48,3 @@ date: 2022-12-05 12:32:10 +0900
 > Statistical determination of numerical codes in mixed databases
 > RIIAA conference
 > August, 2019
-

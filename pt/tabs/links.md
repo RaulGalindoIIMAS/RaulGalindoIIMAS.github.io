@@ -44,10 +44,10 @@ page_data:
 
   # To change order of the Categories, simply change order. (you don't need to change list order.)
   category:
-    - title: "Programming"
+    - title: "Programación"
       type: id_programming
       color: "#F4A273"
-    - title: "Repositories"
+    - title: "Repositorios"
       type: id_repositories
       color: "#62b462"
     - title: "Personal"

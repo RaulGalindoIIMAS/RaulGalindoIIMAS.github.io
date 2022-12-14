@@ -1,7 +1,7 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
-lng_pair: id_Mr_Green_Jekyll_Theme
-title: Mr. Green Jekyll Theme
+lng_pair: id_phd_degree
+title: Ingreso al Doctorado en Computación en IIMAS - UNAM
 
 # post specific
 # if not specified, .name will be used from _data/owner/[language].yml
@@ -16,11 +16,11 @@ img: ":mock1.jpg"
 #comments_disable: true
 
 # publish date
-date: 2022-03-03 12:32:10 +0900
+date: 2020-09-20 12:32:10 +0900
 
 # seo
 # if not specified, date will be used.
-#meta_modify_date: 2022-03-03 12:32:10 +0900
+#meta_modify_date: 2020-09-20 12:32:10 +0900
 # check the meta_common_description in _data/owner/[language].yml
 #meta_description: ""
 
@@ -37,6 +37,14 @@ date: 2022-03-03 12:32:10 +0900
 #published: false
 ---
 
-{%- capture readme_file -%}{%- include_relative _README.md -%}{%- endcapture -%}
-{%- assign tmp_content = readme_file | split: "<!-- readme -->" -%}
-{{tmp_content[1]}}
+##### This paper can be found at the following link:
+
+### Statistical determination of numerical codes in mixed databases
+
+[Statistical determination of numerical codes in mixed databases](https://openreview.net/forum?id=B1liPqdoWB)
+
+
+> **Galindo-Hernández Raúl, Kuri-Morales Ángel**, 
+> Statistical determination of numerical codes in mixed databases
+> RIIAA conference
+> August, 2019

@@ -1,7 +1,7 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
-lng_pair: id_divulgation_evolutionary_computation_bioinformatics
-title: Divulgación de cómputo evolutivo en bioninformática
+lng_pair: id_mixed_databases
+title: Códigos numéricos en bases de datos mixtas
 
 # post specific
 # if not specified, .name will be used from _data/owner/[language].yml
@@ -16,11 +16,11 @@ img: ":mock1.jpg"
 #comments_disable: true
 
 # publish date
-date: 2022-12-05 12:32:10 +0900
+date: 2019-06-07 12:32:10 +0900
 
 # seo
 # if not specified, date will be used.
-#meta_modify_date: 2022-12-05 12:32:10 +0900
+#meta_modify_date: 2019-06-07 12:32:10 +0900
 # check the meta_common_description in _data/owner/[language].yml
 #meta_description: ""
 
