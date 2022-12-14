@@ -1,7 +1,7 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
 lng_pair: id_survey_computer_gene_expression
-title: Artículo sobre algoritmos computacionales en expresión de genes
+title: Artículo sobre algoritmos en datos de expresión de genes
 
 # post specific
 # if not specified, .name will be used from _data/owner/[language].yml
