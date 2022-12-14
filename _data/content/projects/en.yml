@@ -14,7 +14,7 @@ page_data:
   category:
     - title: "Teaching"
       type: id_teaching
-      color: "orange"
+      color: "#F4A273"
     - title: "Conferences"
       type: id_seminar
       color: "#62b462"
@@ -48,11 +48,11 @@ page_data:
         ![Image](:complete_laboratory.jpg)
 
 
-    # picture
+    # example
     - type: id_member
       project_name: "DISCA"
       project_excerpt: "Active member of DISCA group"
-      #img: ":unam_iimas.jpeg"
+      #img: ":iimas.jpg"
       #img_title: "img title3"
       date: "2022-08-07"
       post: |

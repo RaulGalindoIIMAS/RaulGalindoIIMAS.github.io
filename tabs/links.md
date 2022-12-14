@@ -40,53 +40,57 @@ lng_pair: id_links
 page_data:
   main:
     header: "Links"
-    info: "Your Links page description."
+    info: "Links of interest."
 
   # To change order of the Categories, simply change order. (you don't need to change list order.)
   category:
-    - title: "JekyII / Liquid"
-      type: id_jekyiiliquid
-      color: "gray"
-    - title: "Web Design"
-      type: id_webdesign
-      color: "#F4A273"
     - title: "Programming"
       type: id_programming
+      color: "#F4A273"
+    - title: "Repositories"
+      type: id_repositories
       color: "#62b462"
+    - title: "Personal"
+      type: id_personal
+      color: "gray"
 
   list:
     -
     # programming
     - type: id_programming
+      title: "ResearchGate"
+      url: "https://www.researchgate.net/"
+      info: "ResearchGate is a website for graduates and researchers that collaborate in several science fields."
+    - type: id_programming
       title: "Stack OverFlow"
       url: "https://stackoverflow.com/"
       info: "Stack Overflow is a question and answer website for professional and enthusiastic programmers."
 
-    # jekyiiliquid
-    - type: id_jekyiiliquid
-      title: "Jekyll"
-      url: "https://jekyllrb.com/"
-      info: "Transform your plain text into static websites and blogs."
-    - type: id_jekyiiliquid
-      title: "Jekyll Cheat Sheet"
-      url: "https://cloudcannon.com/community/jekyll-cheat-sheet/"
-      info: "There are so many Jekyll variables and filters to remember and it can be tricky to keep it all in your head. This cheat sheet serves as a quick reference of everything Jekyll can do."
-    - type: id_jekyiiliquid
-      title: "Liquid for Designers"
-      url: "https://github.com/Shopify/liquid/wiki/Liquid-for-Designers"
-      info: "Liquid for Designers wiki on GitHub"
-    - type: id_jekyiiliquid
-      title: "Liquid for Programmers"
-      url: "https://github.com/Shopify/liquid/wiki/Liquid-for-Programmers"
-      info: "Liquid for Programmers wiki on GitHub"
-    - type: id_jekyiiliquid
-      title: "Liquid Reference"
-      url: "https://shopify.dev/api/liquid/"
-      info: "Liquid is a template language created by Shopify and written in Ruby. It is now available as an open source project on GitHub"
+    # repositories
+    - type: id_repositories
+      title: "NCBI"
+      url: "https://www.ncbi.nlm.nih.gov/"
+      info: "National Center for Biotechnology Information is a repository containing many biological datasets."
+    - type: id_repositories
+      title: "Kaggle"
+      url: "https://www.kaggle.com/"
+      info: "Kaggle is a repository where one can find different datasets in order to test your machine learning algorithms."
 
-    # webdesign
-    - type: id_webdesign
-      title: "W3Schools"
-      url: "https://www.w3schools.com/"
-      info: "W3Schools offers free online tutorials, references and exercises in all the major languages of the web. Covering popular subjects like HTML, CSS, JavaScript, Python, SQL, Java, and many more."
+    # personal
+    - type: id_personal
+      title: "ORCID"
+      url: "https://orcid.org/my-orcid?orcid=0000-0003-2501-3265"
+      info: "Personal ORCID page."
+    - type: id_personal
+      title: "Google Scholar"
+      url: "https://scholar.google.com/citations?hl=es&user=Ho4p9ugAAAAJ"
+      info: "Personal Google Scholar page."
+    - type: id_personal
+      title: "GitHub"
+      url: "https://github.com/RaulGalindoIIMAS"
+      info: "Personal GitHub page."
+    - type: id_personal
+      title: "LinkedIn"
+      url: "https://mx.linkedin.com/in/raul-galindo-562351191"
+      info: "Personal linkedin page."
 ---
