@@ -169,7 +169,7 @@ privacy-policy:
 constants:
   greetings: ¡Hola!
   welcome: 
-  sample: Soy estudiante de tercer año de doctorado en la UNAM - IIMAS en el grupo de Inteligencia Artificial. Mi investigación se centra principalmente en el diseño de algoritmos evolutivos y de aprendizaje automático aplicados a conjuntos de datos biológicos. Me apasiona analizar éstos enfoques computacinales y conocer cómo funcionan, evolucionan e identifican soluciones potenciales en una variedad de problemas. Estoy muy interesado en observar los patrones y relaciones que tienen los datos de expresión génica.
+  sample: Soy estudiante de tercer año de doctorado en la UNAM - IIMAS en el grupo de Inteligencia Artificial. Mi investigación se centra principalmente en el diseño de algoritmos evolutivos y de aprendizaje automático aplicados a conjuntos de datos biológicos. Me apasiona analizar éstos enfoques computacinales y conocer cómo funcionan, evolucionan y encuentran soluciones potenciales en una variedad de problemas. Estoy muy interesado en identificar los patrones y las relaciones en los datos de expresión génetica. Además, explorar las diferentes formas de procesar datos biológicos y analizar cómo se puede mejorar el comportamiento del enfoque evolutivo y cómo esto afecta a los resultados. Realicé mi maestría en la UNAM - IIMAS donde mi tesis se basó en mejorar la precisión del resultado de la predicción utilizando redes neuronales en varios conjuntos de datos mixtos. Estoy becado por una beca CONACyT. Todos son bienvenidos a colaborar en áreas relacionadas con la inteligencia artificial.
 
 # for cookie consent
 cookie_consent:
