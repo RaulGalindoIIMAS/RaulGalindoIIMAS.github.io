@@ -92,5 +92,5 @@ page_data:
     - type: id_personal
       title: "LinkedIn"
       url: "https://mx.linkedin.com/in/raul-galindo-562351191"
-      info: "Personal linkedin page."
+      info: "Personal LinkedIn page."
 ---

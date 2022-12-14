@@ -39,54 +39,58 @@ lng_pair: id_links
 ###########################################################
 page_data:
   main:
-    header: "Links"
-    info: "Uma descrição para sua página de links."
+    header: "Enlaces"
+    info: "Enlaces de interés."
 
   # To change order of the Categories, simply change order. (you don't need to change list order.)
   category:
-    - title: "JekyII / Liquid"
-      type: id_jekyiiliquid
-      color: "gray"
-    - title: "Web Design"
-      type: id_webdesign
-      color: "#F4A273"
-    - title: "Programação"
+    - title: "Programming"
       type: id_programming
+      color: "#F4A273"
+    - title: "Repositories"
+      type: id_repositories
       color: "#62b462"
+    - title: "Personal"
+      type: id_personal
+      color: "gray"
 
   list:
     -
     # programming
     - type: id_programming
+      title: "ResearchGate"
+      url: "https://www.researchgate.net/"
+      info: "ResearchGate es una página web en donde investigadores pueden colaborar en muchos campos de la ciencia."
+    - type: id_programming
       title: "Stack OverFlow"
       url: "https://stackoverflow.com/"
-      info: "Stack Overflow é um site voltado para perguntas e respostas para professionais e entusiastas da programação."
+      info: "Stack Overflow es una página web con interacción pregunta-respuesta para programadores de diferentes lenguajes de programación."
 
-    # jekyiiliquid
-    - type: id_jekyiiliquid
-      title: "Jekyll"
-      url: "https://jekyllrb.com/"
-      info: "Transforme o seu simples texto em websites estáticos e blogs."
-    - type: id_jekyiiliquid
-      title: "Tabela rápida para Jekyll"
-      url: "https://cloudcannon.com/community/jekyll-cheat-sheet/"
-      info: "Existem tantos filtros e variáveis em Jekyll para se lembrar que pode ser difícil lembrar de todos. Essa tabela serve como uma rápida referência para tudo que Jekyll é capaz de fazer."
-    - type: id_jekyiiliquid
-      title: "Liquid para Designers"
-      url: "https://github.com/Shopify/liquid/wiki/Liquid-for-Designers"
-      info: "Wiki do Liquid para Designers no GitHub"
-    - type: id_jekyiiliquid
-      title: "Liquid para Programadores"
-      url: "https://github.com/Shopify/liquid/wiki/Liquid-for-Programmers"
-      info: "Wiki de Liquid para Programadores no GitHub"
-    - type: id_jekyiiliquid
-      title: "Referências de Liquid"
-      url: "https://shopify.dev/api/liquid/"
-      info: "Liquid é uma linguagem modelo create pelo Shopify e escrita em Ruby. Ela, agora, está disponível em código aberto no GitHub."
+    # repositories
+    - type: id_repositories
+      title: "NCBI"
+      url: "https://www.ncbi.nlm.nih.gov/"
+      info: "National Center for Biotechnology Information (NCBI) es un repositorio que contiene muchos conjuntos de datos biológicos de especial interés para la bioinformática.."
+    - type: id_repositories
+      title: "Kaggle"
+      url: "https://www.kaggle.com/"
+      info: "Kaggle es un repositorio en donde se pueden encontrar una gran variedad de conjuntos de datos que son útiles para probar los algoritmos de machine learning."
 
-    # webdesign
-    - type: id_webdesign
-      title: "W3Schools"
-      url: "https://www.w3schools.com/"
-      info: "W3Schools oferece tutoriais gratuitos, referências e exercícios nas linguagens mais importantes da web, cobrindo a mais populares como HTML, CSS, JavaScript, Python, SQL, Java e mutio mais."
+    # personal
+    - type: id_personal
+      title: "ORCID"
+      url: "https://orcid.org/my-orcid?orcid=0000-0003-2501-3265"
+      info: "Página personal de ORCID."
+    - type: id_personal
+      title: "Google Scholar"
+      url: "https://scholar.google.com/citations?hl=es&user=Ho4p9ugAAAAJ"
+      info: "Página personal de Google Scholar."
+    - type: id_personal
+      title: "GitHub"
+      url: "https://github.com/RaulGalindoIIMAS"
+      info: "Página personal de GitHub."
+    - type: id_personal
+      title: "LinkedIn"
+      url: "https://mx.linkedin.com/in/raul-galindo-562351191"
+      info: "Página personal de LinkedIn."
 ---
