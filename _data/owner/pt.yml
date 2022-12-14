@@ -2,10 +2,10 @@
 # Owner's Personal Information
 ###########################################################
 # This is your brand name
-brand: "Sua Marca"
+brand: "Raúl Galindo"
 
 # text below the brand name
-brand_sub_text: "$site_sample"
+brand_sub_text: "Estudiante de Doctorado"
 
 # used for seo meta post author (if it's not defined in post)
 name: "Seu Nome"
@@ -19,7 +19,7 @@ home:
 
 # about page sub title
 about:
-  sub_title: "$site_sample"
+  sub_title: "Estudiante de Doctorado"
 
 # if you don't want to add copyright year, comment or leave it blank.
 # the year during which the claimed copyright for the work was first asserted.
