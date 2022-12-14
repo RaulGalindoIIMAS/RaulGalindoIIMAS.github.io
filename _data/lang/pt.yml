@@ -174,54 +174,54 @@ constants:
 # for cookie consent
 cookie_consent:
   privacy_policy_link_text: *privacy_policy_title
-  side_nav_setting_button_tooltip: &cookie_settings Configurações de cookies
+  side_nav_setting_button_tooltip: &cookie_settings Configuración de cookies
   panel_bar:
     msg: >
-      Este site utiliza cookies para melhorar sua funcionalidade.
-      Cookies serão ativados somente com sua aprovação.
-    privacy_msg: Verifique a $privacy_link.
+      Este sitio web utiliza cookies para mejorar su funcionalidad.
+      Las cookies solo se activarán con su aprobación.
+    privacy_msg: Verifique el $privacy_link.
     buttons:
-      accept: &accept_button Aceitar
-      settings: Configurações
-      deny: &deny_button Negar
+      accept: &accept_button Aceptar
+      settings: Configuraciones
+      deny: &deny_button Denegar
   panel_settings:
     title: *cookie_settings
     msg: >
-      Este site utiliza cookies para seu funcionamento.
-      Os cookies serão ativados mediante sua aprovação. Por favor, clique em cada item abaixo para ler sua política de privacidade.
-    privacy_msg: Verifique a $privacy_link.
+      Este sitio web utiliza cookies para funcionar.
+      Las cookies se activarán con su aprobación. Haga clic en cada elemento a continuación para leer su política de privacidad.
+    privacy_msg: Verifique la $privacy_link.
     buttons:
       accept: *accept_button
       save: Permitir
       deny: *deny_button
-    always_active: Cookies sempre ativos
+    always_active: Cookies siempre activos
     consent_types:
       necessary:
-        title: Cookies necessários
+        title: Cookies necesarios
         info: >
-          Esses cookies são necessários para que o site possa funcionar e não podem ser desabilitados.
-          São habilitados quando o site altera seu layout, cor etc.
-          Estes cookies não salvam nenhuma informação pessoal.
+         Estas cookies son necesarias para que el sitio web funcione y no se pueden desactivar.
+           Se habilitan cuando el sitio cambia su diseño, color, etc.
+           Estas cookies no guardan ninguna información personal.
           $gtag_info
       analytics:
-        title: Cookies de desempenho
+        title: Cookies de desempeño
         info: $gtag_info
       preferences:
-        title: Cookies de funcionalidade
+        title: Cookies de funcionalidades
         info: $gtag_info
       advertising:
-        title: Cookies de segmentação e publicidade
+        title: Cookies de segmentación y publicidad
         info: $gtag_info
     gtag_info:
       # from https://support.google.com/tagmanager/answer/10718549?hl=pt-BR#consent-types
       ad_storage: >
-        Permite o armazenamento (como cookies) relacionado à publicidade.
+        Permite el almacenamiento (como cookies) relacionado con la publicidad.
       analytics_storage: >
-        Permite o armazenamento (como cookies) relacionado a análises, por exemplo, duração da visita.
+        Permite el almacenamiento (como cookies) relacionado con la publicidad, por ejemplo, duración da visita.
       functionality_storage: >
-        Permite o armazenamento compatível com as funções do site ou app, por exemplo, configurações de idioma.
+        Permite el almacenamiento compatible con el sitio web o las funciones de la aplicación, por ejemplo, la configuración de idioma.
       personalization_storage: >
-        Permite o armazenamento relacionado à personalização, por exemplo, recomendações de vídeos.
+        Permite el almacenamiento relacionado con la personalización, por ejemplo, recomendaciones de video.
       security_storage: >
-        Permite o armazenamento relacionado à segurança, por exemplo,
-        funcionalidade de autenticação, prevenção de fraudes e outras proteções de usuário.
+        Permite el almacenamiento relacionado con la seguridad, por ejemplo,
+        funcionalidad de autenticación, prevención de fraude y otras protecciones para el usuario.
