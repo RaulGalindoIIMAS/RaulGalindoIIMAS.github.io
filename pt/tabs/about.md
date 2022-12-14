@@ -36,8 +36,9 @@ img: ":about.jpg"
 
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
 
-Todos son bienvenidos a colaborar en áreas relacionadas con las ciencias computacionales y pueden contactarme en:
+### Todos son bienvenidos a colaborar en áreas relacionadas con las ciencias computacionales y pueden contactarme en:
 
 raul.galindo.hernandez@comunidad.unam.mx
+
 raul.galindo.mcic@gmail.com
 
