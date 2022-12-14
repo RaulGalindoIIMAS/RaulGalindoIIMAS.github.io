@@ -36,7 +36,8 @@ img: ":about.jpg"
 
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
 
-{%- include util/auto-content-generator.liquid -%}
-{{ website_info_text_first }}
+### Everyone is welcome to collaborate in areas related to computer science and can reach me at:
 
-{{ website_info_text_second }}
+##### raul.galindo.hernandez@comunidad.unam.mx
+
+##### raul.galindo.mcic@gmail.com
