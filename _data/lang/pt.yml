@@ -6,7 +6,7 @@ lng:
   # For html tags, you can enable or disable using html_lng_with_country_code defined in _data/conf/main.yml
   # based on ISO_3166-1 https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
   country: BR
-  switch_title: Sp
+  switch_title: Spanish
   offer:
     title: Idioma
     msg_page: Veja esta página em português.
@@ -167,9 +167,9 @@ privacy-policy:
 
 # constants to be replaced for
 constants:
-  greetings: Hola!
+  greetings: ¡Hola!
   welcome: 
-  sample: Soy estudiante de tercer año de doctorado en la UNAM - IIMAS en el grupo de Inteligencia Artificial. Mi investigación principalmente se centra en el diseño de algoritmos evolutivos y de aprendizaje automático aplicados a conjuntos de datos biológicos. Me apasiona analizar éstos enfoques computacinales y conocer cómo funcionan, evolucionan e identifican soluciones potenciales en una variedad de problemas.
+  sample: Soy estudiante de tercer año de doctorado en la UNAM - IIMAS en el grupo de Inteligencia Artificial. Mi investigación se centra principalmente en el diseño de algoritmos evolutivos y de aprendizaje automático aplicados a conjuntos de datos biológicos. Me apasiona analizar éstos enfoques computacinales y conocer cómo funcionan, evolucionan e identifican soluciones potenciales en una variedad de problemas.
 
 # for cookie consent
 cookie_consent:
